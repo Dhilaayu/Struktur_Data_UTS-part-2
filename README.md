@@ -6,9 +6,6 @@ Kelas : 2A Informatika
 ## Tujuan
 Membuat program Java untuk menampilkan deret **Fibonacci** menggunakan pendekatan **rekursif**.
 
-## Pengertian Rekursif
-Rekursif adalah metode pemrograman dimana sebuah fungsi memanggil dirinya sendiri untuk menyelesaikan suatu masalah hingga mencapai kondisi dasar (base case).
-
 ## Rumus Fibonacci
 f(n) = f(n-1) + f(n-2)
 
