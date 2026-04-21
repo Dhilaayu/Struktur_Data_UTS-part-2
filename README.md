@@ -1,3 +1,6 @@
+<img width="200" height="250" alt="WhatsApp Image 2026-04-21 at 19 49 49" src="https://github.com/user-attachments/assets/3ed549c7-91bc-4530-8a0e-d37d45d5527b" />
+
+
 # Tugas UTS Struktur Data - Part 2
 Nama  : Dhila Ayu Lestari
 NPM   : 25161562029
